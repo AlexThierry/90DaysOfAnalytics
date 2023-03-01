@@ -1,2 +1,2 @@
 # 90DaysOfAnalytics
-The various folders contain a summary of for what was done each day
+The various folders contain a summary of what was done.
